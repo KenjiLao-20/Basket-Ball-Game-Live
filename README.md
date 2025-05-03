@@ -37,6 +37,4 @@ This project is open-source and available for personal and educational use. Feel
 
 Built using Phaser, a powerful HTML5 game framework.
 Special thanks to the contributors of the assets used in the game.
-## Contact
 
-For any questions or feedback, please reach out to the developer at [your-email@example.com]. Enjoy playing Bucket Rush!
